@@ -1,10 +1,3 @@
--- Fraud Detection & Risk Analytics
--- Portfolio SQL Analysis
--- Table: fraud_transactions
---
--- These queries document SQL analysis relevant to the dashboard.
--- Verify column names against your actual source data before using them.
-
 -- 1. Total transactions
 SELECT COUNT(*) AS total_transactions
 FROM fraud_transactions;
