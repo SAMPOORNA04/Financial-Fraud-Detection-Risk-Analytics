@@ -97,3 +97,9 @@ SQL | Python | Pandas | Machine Learning | Power BI | DAX | Data Analysis | Risk
 Sampoorna Ray
 
 B.Tech – Computer Science Engineering specialization in Data Science
+
+# Project Files
+
+- `fraud detection.png` — Executive fraud analytics dashboard
+- `Fraud-Analysis.sql` — SQL queries for fraud and risk analysis
+- `Fraud Detection.pbix` — Power BI dashboard and data model
